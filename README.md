@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio website! This site showcases my professional journey, skills, projects, and achievements in RPA and automation development.
 
+## Live Site
+- GitHub Pages: https://umajaiswal97.github.io/Portfolio
+- Vercel: https://tinyurl.com/umajaiswal-portfolio2
+
 ## About Me
 
 I'm Uma Devi Jaiswal, a UiPath Developer with 3+ years of experience in RPA and automation across BFSI and IT domains. I specialize in developing end-to-end automation solutions using UiPath ReFramework, Document Understanding, and Orchestrator.
