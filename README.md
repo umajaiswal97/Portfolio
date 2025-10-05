@@ -42,10 +42,6 @@ I'm Uma Devi Jaiswal, a UiPath Developer with 3+ years of experience in RPA and 
 - **Location**: Mumbai, India
 - **LinkedIn**: [Uma Jaiswal](https://www.linkedin.com/in/uma-jaiswal)
 
-## License
-
-This portfolio template is based on Bootstrap template "Personal" by BootstrapMade.com
-
 ---
 
 © 2025 Uma Jaiswal. All Rights Reserved.
