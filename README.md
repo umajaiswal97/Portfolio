@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my professional jo
 
 ## Live Site
 - GitHub Pages: https://umajaiswal97.github.io/Portfolio
-- Vercel: https://tinyurl.com/umajaiswal-portfolio2
+- Short URL: https://tinyurl.com/umajaiswal-portfolio
 
 ## About Me
 
